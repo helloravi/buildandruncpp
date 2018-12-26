@@ -4,7 +4,7 @@
 3. Using VS Code
 4. Using auto tools
 
-
+## Details of the four ways:
 1. [How to use xcode to run a C/C++ program](https://apple.stackexchange.com/questions/112915/how-can-i-compile-and-run-c-in-xcode)
 2. `cc main.c` gives a.out
     Run a.out using `./a.out`
